@@ -1,0 +1,13 @@
+[13-05-2025 17:28:27.233 INFO com.jquery.Level_09_DataTable] - ---------- START delete file in folder ----------
+[13-05-2025 17:28:27.236 INFO com.jquery.Level_09_DataTable] - ---------- END delete file in folder ----------
+[13-05-2025 17:28:27.248 INFO com.jquery.Level_09_DataTable] - before Class
+[13-05-2025 17:28:27.616 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.92 (resolved driver for Chrome 136)
+[13-05-2025 17:28:27.636 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.92\chromedriver.exe
+[13-05-2025 17:28:32.639 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 1: Verify PageActiveByName is 15
+[13-05-2025 17:28:35.843 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 2: Verify PageActiveByName is 10
+[13-05-2025 17:28:39.023 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 3: Verify PageActiveByName is 24
+[13-05-2025 17:28:42.179 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 4: Verify PageActiveByName is 1
+[13-05-2025 17:28:45.347 INFO com.jquery.Level_09_DataTable] -  -------------------------- PASSED -------------------------- 
+[13-05-2025 17:28:45.457 INFO com.jquery.Level_09_DataTable] - TC_02_Search
+[13-05-2025 17:29:03.283 INFO com.jquery.Level_09_DataTable] - TC_03_Verify_Row
+[13-05-2025 17:29:38.360 INFO com.jquery.Level_09_DataTable] - TC_04_Action
