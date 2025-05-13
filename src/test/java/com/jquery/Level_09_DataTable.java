@@ -15,7 +15,7 @@ import commons.TestListener;
 import pageObjects.jQuery.HomePageObject;
 import pageObjects.jQuery.PageGenerator;
 
-//@Listeners(TestListener.class)
+@Listeners(TestListener.class)
 public class Level_09_DataTable extends BaseTest {
 
 	WebDriver driver;
