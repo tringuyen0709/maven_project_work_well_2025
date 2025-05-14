@@ -10,8 +10,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.opera.OperaDriver;
-import org.openqa.selenium.support.ui.Sleeper;
 import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.BeforeTest;
@@ -34,8 +34,13 @@ public class BaseTest {
 		case FIREFOX:
 //			WebDriverManager.firefoxdriver().setup();
 //			System.setProperty("webdriver.gecko.driver", "E:\\SELENIUM\\repo\\maven_project\\browserDrivers\\geckodriver.exe");
+			
+			// Chay headless => Ko hien giao dien GUI
+	        FirefoxOptions firefoxOptions = new FirefoxOptions();
+//	        firefoxOptions.addArguments("--headless");          // chạy không giao diện
+//	        firefoxOptions.addArguments("--disable-gpu");       // thường dùng cho Windows
 			WebDriverManager.firefoxdriver().driverVersion("0.33.0").setup();			
-			driver = new FirefoxDriver();
+			driver = new FirefoxDriver(firefoxOptions);
 			break;
 		case CHROME:
 //			WebDriverManager.chromedriver().driverVersion("131.0.6778.204").setup();
@@ -44,8 +49,8 @@ public class BaseTest {
 			// Chay headless => Ko hien giao dien GUI
 	        ChromeOptions chromeOptions = new ChromeOptions();
 	        chromeOptions.addArguments("--headless");          // chạy không giao diện
-	        chromeOptions.addArguments("--disable-gpu");       // thường dùng cho Windows
-	        chromeOptions.addArguments("--window-size=1920,1080");
+//	        chromeOptions.addArguments("--disable-gpu");       // thường dùng cho Windows
+//	        chromeOptions.addArguments("--window-size=1920,1080");
 
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver(chromeOptions);			
