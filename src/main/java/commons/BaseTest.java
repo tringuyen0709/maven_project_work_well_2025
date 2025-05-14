@@ -37,7 +37,7 @@ public class BaseTest {
 			
 			// Chay headless => Ko hien giao dien GUI
 	        FirefoxOptions firefoxOptions = new FirefoxOptions();
-//	        firefoxOptions.addArguments("--headless");          // chạy không giao diện
+	        firefoxOptions.addArguments("--headless");          // chạy không giao diện
 //	        firefoxOptions.addArguments("--disable-gpu");       // thường dùng cho Windows
 			WebDriverManager.firefoxdriver().driverVersion("0.33.0").setup();			
 			driver = new FirefoxDriver(firefoxOptions);
