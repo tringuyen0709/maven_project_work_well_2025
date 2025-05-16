@@ -1,0 +1,10 @@
+[16-05-2025 22:29:23.918 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 22:29:23.921 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 22:29:23.932 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 22:29:24.426 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.gecko.driver as C:\Users\USER\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+[16-05-2025 22:29:28.647 INFO com.jquery.TC_01_Upload_File] - Upload with 2 file
+[16-05-2025 22:29:33.692 INFO com.jquery.TC_01_Upload_File] - Kiem tra load 2 file
+[16-05-2025 22:29:38.831 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 1
+[16-05-2025 22:29:39.134 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 2
+[16-05-2025 22:29:44.404 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 1
+[16-05-2025 22:29:44.472 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 2

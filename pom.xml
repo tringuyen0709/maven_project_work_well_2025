@@ -187,8 +187,8 @@
 				<configuration>
 					<!-- Run TestNG xml file -->
 					<suiteXmlFiles>
-						<file>src/test/resources/runjQueryTestcase.xml</file>
-<!-- 						<file>src/test/resources/runNopCommerceTri.xml</file> -->
+<!-- 						<file>src/test/resources/runjQueryTestcase.xml</file> -->
+						<file>src/test/resources/runjQueryTestcase_Upload.xml</file>
 					</suiteXmlFiles>
 
 					<!-- Argument -->

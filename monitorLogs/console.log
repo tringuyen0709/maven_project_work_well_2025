@@ -513,3 +513,279 @@
 [14-05-2025 13:13:36.671 INFO com.jquery.Level_09_DataTable] - TC_02_Search
 [14-05-2025 13:13:37.555 INFO com.jquery.Level_09_DataTable] - TC_03_Verify_Row
 [14-05-2025 13:13:45.334 INFO com.jquery.Level_09_DataTable] - TC_04_Action
+[15-05-2025 10:35:41.276 INFO com.jquery.Level_09_DataTable] - ---------- START delete file in folder ----------
+[15-05-2025 10:35:41.279 INFO com.jquery.Level_09_DataTable] - ---------- END delete file in folder ----------
+[15-05-2025 10:35:41.289 INFO com.jquery.Level_09_DataTable] - before Class
+[15-05-2025 10:35:41.783 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.gecko.driver as C:\Users\USER\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+[15-05-2025 10:35:47.425 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 1: Verify PageActiveByName is 15
+[15-05-2025 10:35:50.818 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 2: Verify PageActiveByName is 10
+[15-05-2025 10:35:54.163 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 3: Verify PageActiveByName is 24
+[15-05-2025 10:35:57.527 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 4: Verify PageActiveByName is 1
+[15-05-2025 10:36:00.872 INFO com.jquery.Level_09_DataTable] -  -------------------------- PASSED -------------------------- 
+[15-05-2025 10:36:00.926 INFO com.jquery.Level_09_DataTable] - TC_02_Search
+[15-05-2025 10:36:01.968 INFO com.jquery.Level_09_DataTable] - TC_03_Verify_Row
+[15-05-2025 10:36:08.499 INFO com.jquery.Level_09_DataTable] - TC_04_Action
+[15-05-2025 10:38:09.801 INFO com.jquery.Level_09_DataTable] - ---------- START delete file in folder ----------
+[15-05-2025 10:38:09.804 INFO com.jquery.Level_09_DataTable] - ---------- END delete file in folder ----------
+[15-05-2025 10:38:09.815 INFO com.jquery.Level_09_DataTable] - before Class
+[15-05-2025 10:38:10.245 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.gecko.driver as C:\Users\USER\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+[15-05-2025 10:38:14.252 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 1: Verify PageActiveByName is 15
+[15-05-2025 10:38:17.641 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 2: Verify PageActiveByName is 10
+[15-05-2025 10:38:20.990 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 3: Verify PageActiveByName is 24
+[15-05-2025 10:38:24.344 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 4: Verify PageActiveByName is 1
+[15-05-2025 10:38:27.708 INFO com.jquery.Level_09_DataTable] -  -------------------------- PASSED -------------------------- 
+[15-05-2025 10:38:27.762 INFO com.jquery.Level_09_DataTable] - TC_02_Search
+[15-05-2025 10:38:28.823 INFO com.jquery.Level_09_DataTable] - TC_03_Verify_Row
+[15-05-2025 10:38:35.202 INFO com.jquery.Level_09_DataTable] - TC_04_Action
+[15-05-2025 13:24:29.349 INFO com.jquery.Level_09_DataTable] - ---------- START delete file in folder ----------
+[15-05-2025 13:24:29.352 INFO com.jquery.Level_09_DataTable] - ---------- END delete file in folder ----------
+[15-05-2025 13:24:29.363 INFO com.jquery.Level_09_DataTable] - before Class
+[15-05-2025 13:24:29.785 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.gecko.driver as C:\Users\USER\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+[15-05-2025 13:24:36.266 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 1: Verify PageActiveByName is 15
+[15-05-2025 13:24:39.670 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 2: Verify PageActiveByName is 10
+[15-05-2025 13:24:43.011 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 3: Verify PageActiveByName is 24
+[15-05-2025 13:24:46.364 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 4: Verify PageActiveByName is 1
+[15-05-2025 13:24:49.723 INFO com.jquery.Level_09_DataTable] -  -------------------------- PASSED -------------------------- 
+[15-05-2025 13:24:49.777 INFO com.jquery.Level_09_DataTable] - TC_02_Search
+[15-05-2025 13:24:50.830 INFO com.jquery.Level_09_DataTable] - TC_03_Verify_Row
+[15-05-2025 13:24:58.922 INFO com.jquery.Level_09_DataTable] - TC_04_Action
+[16-05-2025 15:39:26.340 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 15:39:26.348 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 15:41:39.584 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 15:41:39.591 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 15:43:35.128 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 15:43:35.136 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 15:46:29.658 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 15:46:29.665 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 15:47:05.981 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 15:47:05.989 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 15:49:22.918 INFO com.jquery.Level_09_DataTable] - ---------- START delete file in folder ----------
+[16-05-2025 15:49:22.926 INFO com.jquery.Level_09_DataTable] - ---------- END delete file in folder ----------
+[16-05-2025 15:49:22.937 INFO com.jquery.Level_09_DataTable] - before Class
+[16-05-2025 15:49:23.353 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.gecko.driver as C:\Users\USER\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+[16-05-2025 15:49:28.580 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 1: Verify PageActiveByName is 15
+[16-05-2025 15:49:31.993 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 2: Verify PageActiveByName is 10
+[16-05-2025 15:49:35.333 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 3: Verify PageActiveByName is 24
+[16-05-2025 15:49:38.675 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 4: Verify PageActiveByName is 1
+[16-05-2025 15:49:42.019 INFO com.jquery.Level_09_DataTable] -  -------------------------- PASSED -------------------------- 
+[16-05-2025 15:49:42.076 INFO com.jquery.Level_09_DataTable] - TC_02_Search
+[16-05-2025 15:49:43.120 INFO com.jquery.Level_09_DataTable] - TC_03_Verify_Row
+[16-05-2025 15:49:49.129 INFO com.jquery.Level_09_DataTable] - TC_04_Action
+[16-05-2025 15:54:01.186 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 15:54:01.190 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 15:54:24.115 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 15:54:24.122 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:00:39.489 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:00:39.495 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:07:46.921 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:07:46.929 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:09:38.790 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:09:38.798 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:10:53.505 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:10:53.512 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:12:00.411 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:12:00.417 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:12:00.428 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:12:01.959 ERROR io.github.bonigarcia.wdm.online.HttpClient] - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_136
+[16-05-2025 16:12:01.963 WARN io.github.bonigarcia.wdm.versions.VersionDetector] - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_136 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_136)
+[16-05-2025 16:12:02.672 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[16-05-2025 16:17:03.185 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:17:03.188 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:17:03.200 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:17:04.399 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:17:04.472 INFO io.github.bonigarcia.wdm.online.Downloader] - Downloading https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.94/win64/chromedriver-win64.zip
+[16-05-2025 16:17:06.073 INFO io.github.bonigarcia.wdm.online.Downloader] - Extracting driver from compressed file chromedriver-win64.zip
+[16-05-2025 16:17:06.198 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:17:45.738 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:17:45.745 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:17:45.757 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:17:46.144 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:17:46.158 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:21:40.496 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:21:40.503 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:21:40.515 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:21:40.911 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:21:40.928 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:22:32.271 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:22:32.278 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:22:32.290 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:22:32.698 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:22:32.712 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:24:42.843 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:24:42.853 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:24:42.870 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:24:43.303 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:24:43.318 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:25:12.617 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:25:12.624 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:25:12.636 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:25:13.052 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:25:13.073 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:27:09.183 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:27:09.190 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:27:09.202 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:27:09.589 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:27:09.603 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:29:15.994 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:29:16.001 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:29:16.012 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:29:16.394 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:29:16.408 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:41:02.204 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:41:02.207 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:41:02.221 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:41:02.655 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:41:02.677 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:45:50.900 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:45:50.907 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:45:50.918 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:45:51.305 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:45:51.319 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:46:40.428 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:46:40.435 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:46:57.994 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:46:58.001 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:46:58.011 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:46:58.401 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:46:58.416 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:47:30.334 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:47:30.342 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:47:30.355 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:47:30.742 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:47:30.756 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:50:07.854 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:50:07.862 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:50:07.873 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:50:08.293 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:50:08.307 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 16:53:18.196 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 16:53:18.204 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 16:53:18.215 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 16:53:18.602 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 16:53:18.615 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 17:01:49.247 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 17:01:49.254 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 17:01:49.266 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 17:01:49.650 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 17:01:49.665 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 17:03:16.643 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 17:03:16.650 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 17:03:16.663 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 17:03:17.041 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 17:03:17.054 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 17:15:33.913 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 17:15:33.920 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 17:15:33.932 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 17:15:34.336 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 17:15:34.352 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 17:18:47.062 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 17:18:47.069 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 17:18:47.082 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 17:18:47.704 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 17:18:47.718 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 17:27:29.284 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 17:27:29.291 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 17:27:29.303 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 17:27:29.695 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 17:27:29.709 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 17:31:07.112 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 17:31:07.119 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 17:31:07.130 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 17:31:07.530 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 17:31:07.545 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 17:31:09.688 INFO com.jquery.TC_01_Upload_File] - Upload with 2 file
+[16-05-2025 17:31:14.770 INFO com.jquery.TC_01_Upload_File] - Kiem tra load 2 file
+[16-05-2025 17:31:19.949 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 1
+[16-05-2025 17:31:20.062 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 2
+[16-05-2025 17:31:25.155 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 1
+[16-05-2025 17:31:25.241 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 2
+[16-05-2025 17:32:05.265 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 17:32:05.272 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 17:32:05.283 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 17:32:05.682 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 17:32:05.698 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 17:32:07.866 INFO com.jquery.TC_01_Upload_File] - Upload with 2 file
+[16-05-2025 17:32:12.956 INFO com.jquery.TC_01_Upload_File] - Kiem tra load 2 file
+[16-05-2025 17:32:18.126 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 1
+[16-05-2025 17:32:18.224 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 2
+[16-05-2025 17:32:23.319 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 1
+[16-05-2025 17:32:23.404 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 2
+[16-05-2025 17:37:14.553 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 17:37:14.561 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 17:37:14.574 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 17:37:14.971 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 17:37:14.985 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 17:37:17.325 INFO com.jquery.TC_01_Upload_File] - Upload with 2 file
+[16-05-2025 17:37:22.387 INFO com.jquery.TC_01_Upload_File] - Kiem tra load 2 file
+[16-05-2025 17:37:27.561 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 1
+[16-05-2025 17:37:27.658 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 2
+[16-05-2025 17:37:32.750 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 1
+[16-05-2025 17:37:32.835 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 2
+[16-05-2025 17:51:19.663 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 17:51:19.670 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 17:51:19.680 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 17:51:20.074 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 17:51:20.090 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 17:51:24.436 INFO com.jquery.TC_01_Upload_File] - Upload with 2 file
+[16-05-2025 17:51:29.490 INFO com.jquery.TC_01_Upload_File] - Kiem tra load 2 file
+[16-05-2025 17:51:34.656 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 1
+[16-05-2025 17:51:34.765 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 2
+[16-05-2025 17:51:39.859 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 1
+[16-05-2025 17:51:39.942 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 2
+[16-05-2025 18:53:32.541 INFO com.jquery.Level_09_DataTable] - ---------- START delete file in folder ----------
+[16-05-2025 18:53:32.550 INFO com.jquery.Level_09_DataTable] - ---------- END delete file in folder ----------
+[16-05-2025 18:53:32.566 INFO com.jquery.Level_09_DataTable] - before Class
+[16-05-2025 18:53:33.202 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 18:53:33.216 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 18:53:36.121 INFO com.jquery.Level_09_DataTable] - TC_01_Paging - Step 1: Verify PageActiveByName is 15
+[16-05-2025 18:54:49.531 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 18:54:49.538 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 18:54:49.551 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 18:54:49.941 INFO io.github.bonigarcia.wdm.WebDriverManager] - Using chromedriver 136.0.7103.94 (resolved driver for Chrome 136)
+[16-05-2025 18:54:49.957 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win64\136.0.7103.94\chromedriver.exe
+[16-05-2025 18:54:52.511 INFO com.jquery.TC_01_Upload_File] - Upload with 2 file
+[16-05-2025 18:54:57.564 INFO com.jquery.TC_01_Upload_File] - Kiem tra load 2 file
+[16-05-2025 18:55:02.739 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 1
+[16-05-2025 18:55:02.837 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 2
+[16-05-2025 18:55:07.924 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 1
+[16-05-2025 18:55:08.008 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 2
+[16-05-2025 18:55:25.012 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 18:55:25.020 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 18:55:25.031 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 18:55:25.437 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.gecko.driver as C:\Users\USER\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+[16-05-2025 18:55:28.513 INFO com.jquery.TC_01_Upload_File] - Upload with 2 file
+[16-05-2025 18:55:33.575 INFO com.jquery.TC_01_Upload_File] - Kiem tra load 2 file
+[16-05-2025 18:55:38.761 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 1
+[16-05-2025 18:55:39.058 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 2
+[16-05-2025 18:55:44.331 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 1
+[16-05-2025 18:55:44.434 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 2
+[16-05-2025 22:09:47.748 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 22:09:47.751 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 22:09:47.762 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 22:09:48.253 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.gecko.driver as C:\Users\USER\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+[16-05-2025 22:09:52.328 INFO com.jquery.TC_01_Upload_File] - Upload with 2 file
+[16-05-2025 22:09:57.375 INFO com.jquery.TC_01_Upload_File] - Kiem tra load 2 file
+[16-05-2025 22:10:02.526 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 1
+[16-05-2025 22:10:02.809 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 2
+[16-05-2025 22:10:08.080 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 1
+[16-05-2025 22:10:08.149 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 2
+[16-05-2025 22:29:23.918 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 22:29:23.921 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 22:29:23.932 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 22:29:24.426 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.gecko.driver as C:\Users\USER\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+[16-05-2025 22:29:28.647 INFO com.jquery.TC_01_Upload_File] - Upload with 2 file
+[16-05-2025 22:29:33.692 INFO com.jquery.TC_01_Upload_File] - Kiem tra load 2 file
+[16-05-2025 22:29:38.831 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 1
+[16-05-2025 22:29:39.134 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 2
+[16-05-2025 22:29:44.404 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 1
+[16-05-2025 22:29:44.472 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 2
+[16-05-2025 22:30:15.346 INFO com.jquery.TC_01_Upload_File] - ---------- START delete file in folder ----------
+[16-05-2025 22:30:15.352 INFO com.jquery.TC_01_Upload_File] - ---------- END delete file in folder ----------
+[16-05-2025 22:30:15.363 INFO com.jquery.TC_01_Upload_File] - before Class
+[16-05-2025 22:30:15.802 INFO io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.gecko.driver as C:\Users\USER\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+[16-05-2025 22:30:18.787 INFO com.jquery.TC_01_Upload_File] - Upload with 2 file
+[16-05-2025 22:30:23.837 INFO com.jquery.TC_01_Upload_File] - Kiem tra load 2 file
+[16-05-2025 22:30:28.993 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 1
+[16-05-2025 22:30:29.288 INFO com.jquery.TC_01_Upload_File] - Bam nut start cho file thu 2
+[16-05-2025 22:30:34.574 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 1
+[16-05-2025 22:30:34.646 INFO com.jquery.TC_01_Upload_File] - Kiem tra upload cho file thu 2

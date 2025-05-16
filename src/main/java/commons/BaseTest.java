@@ -37,7 +37,7 @@ public class BaseTest {
 			
 			// Chay headless => Ko hien giao dien GUI
 	        FirefoxOptions firefoxOptions = new FirefoxOptions();
-	        firefoxOptions.addArguments("--headless");          // chạy không giao diện
+//	        firefoxOptions.addArguments("--headless");          // chạy không giao diện
 //	        firefoxOptions.addArguments("--disable-gpu");       // thường dùng cho Windows
 			WebDriverManager.firefoxdriver().driverVersion("0.33.0").setup();			
 			driver = new FirefoxDriver(firefoxOptions);
@@ -48,7 +48,7 @@ public class BaseTest {
 			
 			// Chay headless => Ko hien giao dien GUI
 	        ChromeOptions chromeOptions = new ChromeOptions();
-	        chromeOptions.addArguments("--headless");          // chạy không giao diện
+//	        chromeOptions.addArguments("--headless");          // chạy không giao diện
 //	        chromeOptions.addArguments("--disable-gpu");       // thường dùng cho Windows
 //	        chromeOptions.addArguments("--window-size=1920,1080");
 
